@@ -68,4 +68,3 @@ Los cambios serán publicados en esta misma página.
 Al utilizar MedicLab Calculators, el usuario acepta esta política de privacidad.
 
 
-GitHub: https://github.com/TU_USUARIO
