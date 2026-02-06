@@ -1,16 +1,16 @@
-# Política de Privacidad – MedicLab Calculators
+# Política de Privacidad – MedicLab
 
 
 ## 1. Introducción
 
-MedicLab Calculators es una aplicación diseñada para facilitar cálculos clínicos y educativos.  
+MedicLab es una aplicación diseñada para facilitar cálculos clínicos y educativos.  
 La privacidad de los usuarios es una prioridad. Esta política describe cómo se maneja la información.
 
 ---
 
 ## 2. Información que no recopilamos
 
-MedicLab Calculators:
+MedicLab:
 
 - No solicita registro de usuarios.
 - No recopila datos personales identificables.
@@ -33,7 +33,7 @@ Estos servicios pueden recopilar información limitada, como:
 - Dirección IP aproximada
 - Datos de uso de la aplicación
 
-El desarrollador de MedicLab Calculators no tiene acceso ni control directo sobre los datos recopilados por estos servicios.
+El desarrollador de MedicLab no tiene acceso ni control directo sobre los datos recopilados por estos servicios.
 
 Para más información, consulte la política de privacidad de Google:  
 https://policies.google.com/privacy
@@ -52,7 +52,7 @@ La información proporcionada por la aplicación:
 
 ## 5. Seguridad
 
-MedicLab Calculators no almacena datos personales, por lo que no se realiza tratamiento ni transferencia de información sensible.
+MedicLab no almacena datos personales, por lo que no se realiza tratamiento ni transferencia de información sensible.
 
 ---
 
@@ -65,6 +65,6 @@ Los cambios serán publicados en esta misma página.
 
 ## 7. Aceptación
 
-Al utilizar MedicLab Calculators, el usuario acepta esta política de privacidad.
+Al utilizar MedicLab, el usuario acepta esta política de privacidad.
 
 
