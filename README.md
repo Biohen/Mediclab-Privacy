@@ -51,7 +51,7 @@ Los cambios serán publicados en esta misma página.
 
 ---
 
-## 7. Aceptación
+## 6. Aceptación
 
 Al utilizar MedicLab, el usuario acepta esta política de privacidad.
 
