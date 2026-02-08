@@ -1,9 +1,7 @@
 # Política de Privacidad – MedicLab
 
 
-## 1. Introducción
-
-MedicLab es una aplicación diseñada para facilitar cálculos clínicos y educativos.  
+## 1. Introducción 
 La privacidad de los usuarios es una prioridad. Esta política describe cómo se maneja la información.
 
 ---
@@ -40,23 +38,13 @@ https://policies.google.com/privacy
 
 ---
 
-## 4. Uso de la información
-
-La información proporcionada por la aplicación:
-
-- Tiene fines educativos y de apoyo.
-- No sustituye la evaluación médica profesional.
-- No debe utilizarse como único criterio clínico.
-
----
-
-## 5. Seguridad
+## 4. Seguridad
 
 MedicLab no almacena datos personales, por lo que no se realiza tratamiento ni transferencia de información sensible.
 
 ---
 
-## 6. Cambios en esta política
+## 5. Cambios en esta política
 
 Esta política puede actualizarse ocasionalmente.  
 Los cambios serán publicados en esta misma página.
